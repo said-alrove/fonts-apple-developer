@@ -55,6 +55,7 @@ body { font-size: 16px; }
 /* ==== TYPOGRAHPY ==== */
 .fonts__header > h1,
 .item__header > h2 { 
+    margin: 0;
     font-family: var(--ff-main);
     letter-spacing: .012em;
     color: var(--clr-dk-gray-200); 

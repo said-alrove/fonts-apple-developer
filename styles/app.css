@@ -64,8 +64,8 @@ body { font-size: 16px; }
 
 .item__header > h2 { font-size: 2.2rem; }
 
-@media (min-width: var(1080px)) {
-    .fonts__header > h1 { font-size: 4rem; }
+@media (min-width: 1080px) {
+    .fonts__header > h1 { font-size: 4.4rem; }
 
     .item__header > h2 { font-size: 2.4rem; }
 }

@@ -5,6 +5,8 @@ I did this attempt of a "replica" of a section of the Fonts page from the [Apple
 
 I couldn't get the same result as the original basically due to the fonts, I didn't find the exact fonts they were using, therefore I tried to use the ones that approached the most to the design.
 
+> **Note:** When deploying the site with the name of this repository there had been a couple of troubles basically because Google detected it as a "fraudulent site" (due to the similarity of the URL with the original), therefore the site's URL is an abbreviation (fonts-apple-developer -> fap) in order to avoid the mentioned before.
+
 ## Project's preview
 
 ### Desktop
